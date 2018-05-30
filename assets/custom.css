@@ -1,0 +1,23 @@
+* {
+  font-family: 'Inconsolata', monospace !important;
+}
+
+.nav-title,
+.nav a,
+.post-title,
+.catalogue-title {
+  color: #826E8A;
+}
+
+.catalogue-line {
+  border-top: 0.2rem solid #826E8A;
+}
+
+.post-line {
+  border-top: 0.4rem solid #826E8A;
+}
+
+footer span {
+  color: inherit;
+  font-size: inherit;
+}
