@@ -9,8 +9,9 @@ author:
 
 # Build settings
 markdown: kramdown
-theme: tale
+remote_theme: chesterhow/tale
 permalink: /:title
 paginate: 5
 plugins:
-  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-remote-theme
