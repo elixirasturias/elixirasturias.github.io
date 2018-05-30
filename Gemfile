@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 3.8.2"
 gem "tale"
 
 # If you have any plugins, put them here!
