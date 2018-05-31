@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam purus tortor, elementum in ipsum eget, facilisis fringilla purus. Quisque porta at urna ac mollis. Aliquam ac lobortis tellus. Quisque porta metus non fermentum imperdiet. Mauris malesuada dui vitae scelerisque venenatis. Aenean sagittis dolor vitae mollis molestie. Cras tincidunt mauris nec est scelerisque laoreet.
+**Elixir Asturias** nace como punto de encuentro para toda la gente que esté por **Asturias** y tenga interés en **Elixir**, **Phoenix Framework**, **programación funcional**... Cualquier persona puede participar, no es necesaria experiencia previa con **Elixir**, simplemente tener ganas de aprender y compartir experiencias con la comunidad.
 
-Nam vestibulum lobortis tincidunt. Etiam dignissim sagittis lorem, quis tempus risus sodales vitae. Proin quis elit nulla. Morbi ut dictum nisl. Etiam suscipit ligula et egestas hendrerit. Praesent ultricies tristique ligula ut ultrices. Quisque ac ex ac turpis hendrerit faucibus ut et turpis. Vivamus nisi felis, mollis vitae est in, ullamcorper elementum mi.
+Sacaremos partido del potencial de **Elixir** entre todos a través de charlas y eventos, que se organizarán periódicamente en función de la demanda que exista.
+
+Puedes enterarte de todas las novedades del meetup a través de nuestra cuenta de [Twitter](https://twitter.com/ElixirAsturias), proponer una actividad en nuestra organización de [Github](https://github.com/elixirasturias), o directamente apuntarte al grupo desde [Meetup](https://www.meetup.com/Elixir-Asturias/).
