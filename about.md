@@ -9,3 +9,8 @@ permalink: /about/
 Sacaremos partido del potencial de **Elixir** entre todos a través de charlas y eventos, que se organizarán periódicamente en función de la demanda que exista.
 
 Puedes enterarte de todas las novedades del meetup a través de nuestra cuenta de [Twitter](https://twitter.com/ElixirAsturias), proponer una actividad en nuestra organización de [Github](https://github.com/elixirasturias), o directamente apuntarte al grupo desde [Meetup](https://www.meetup.com/Elixir-Asturias/).
+
+Como muestra de nuestro apoyo a la diversidad en los eventos de tecnología, hemos firmado la [diversity charter](http://diversitycharter.org/). Tú también puedes hacerlo, bien como parte de un evento tecnológico,
+o como persona individual.
+
+![Diversity Charter](/assets/diversitycharterlogo.png)
