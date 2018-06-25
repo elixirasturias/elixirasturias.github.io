@@ -5,7 +5,10 @@ url: ""
 twitter_username: elixirasturias
 github_username:  elixirasturias
 author:
-  name: dreamingechoes
+  name: Elixir |> Asturias
+  github: elixirasturias
+  twitter: elixirasturias
+  meetup: Elixir-Asturias
 
 # Build settings
 markdown: kramdown
