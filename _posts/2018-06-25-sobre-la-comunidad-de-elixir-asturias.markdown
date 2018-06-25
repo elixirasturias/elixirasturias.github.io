@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sobre la comunidad de Elixir |> Asturias"
+title: "Sobre la comunidad de Elixir Asturias"
 date: 2018-06-25 18:30:00 +0200
 categories: elixir CoC
 author: dreamingechoes
