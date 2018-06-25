@@ -17,6 +17,10 @@
   border-top: 0.4rem solid #826E8A;
 }
 
+.fab {
+  font-family: "Font Awesome 5 Brands" !important;
+}
+
 footer span {
   color: inherit;
   font-size: inherit;
