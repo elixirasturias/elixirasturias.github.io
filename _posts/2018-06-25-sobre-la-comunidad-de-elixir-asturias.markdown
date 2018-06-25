@@ -21,7 +21,7 @@ Desde **Elixir Asturias** vamos a ser firmes con este punto ya que entendemos el
 que la experiencia en nuestros meetups sea lo más adecuada posible para todos los asistentes, de modo que si
 tienes pensado asistir a algún evento de **Elixir Asturias** y tienes alguna necesidad especial, puedes
 comunicárnoslo por mensaje privado a través de nuestra cuenta de [Twitter](https://twitter.com/elixirasturias) o
-desde la cuenta del [meetup](https://www.meetup.com/Elixir-Asturias).
+desde la cuenta de [Meetup](https://www.meetup.com/Elixir-Asturias).
 
 Como muestra de nuestro apoyo a la diversidad en los eventos de tecnología, hemos firmado la [diversity charter](http://diversitycharter.org/). Tú también puedes hacerlo, bien como parte de un evento tecnológico,
 o como persona individual.
