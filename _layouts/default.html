@@ -10,7 +10,6 @@
           <h2 class="nav-title">{{ site.title }}</h2>
         </a>
         <ul>
-          <li><a href="{{ site.baseurl }}/">Posts</a></li>
           <li><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
           <li>
               <a href="https://www.meetup.com/{{ site.author.meetup }}" target="_blank">
@@ -25,6 +24,11 @@
           <li>
             <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank">
               <i class="fab fa-twitter"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/channel/{{ site.author.youtube }}" target="_blank">
+              <i class="fab fa-youtube"></i>
             </a>
           </li>
         </ul>
