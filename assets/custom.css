@@ -25,3 +25,25 @@ footer span {
   color: inherit;
   font-size: inherit;
 }
+
+.row {
+  width: 100%;
+  float: left;
+  margin-bottom: 24px;
+}
+
+.member {
+  width: 32%;
+  float: left;
+  margin-right: 16px;
+  overflow: hidden;
+}
+
+.member:last-child {
+  margin-right: 0;
+}
+
+.member img {
+  margin-bottom: 4px;
+  width: 100%;
+}
