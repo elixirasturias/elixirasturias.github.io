@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 3.8.2"
+gem "jekyll-feed"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
