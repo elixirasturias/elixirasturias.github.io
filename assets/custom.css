@@ -2,6 +2,12 @@
   font-family: 'Inconsolata', monospace !important;
 }
 
+iframe {
+  margin: 12px auto;
+  width: 100%;
+  height: 440px;
+}
+
 .nav-title,
 .nav a,
 .post-title,
