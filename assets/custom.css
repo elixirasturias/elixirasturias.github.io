@@ -12,15 +12,28 @@ iframe {
 .nav a,
 .post-title,
 .catalogue-title {
-  color: #826E8A;
+  color: #624ab6;
+}
+
+.nav-container {
+  margin: 12px auto;
+}
+
+.nav-logo {
+  width: 34px;
+  margin: 0;
+}
+
+.nav ul {
+  margin: inherit;
 }
 
 .catalogue-line {
-  border-top: 0.2rem solid #826E8A;
+  border-top: 0.2rem solid #624ab6;
 }
 
 .post-line {
-  border-top: 0.4rem solid #826E8A;
+  border-top: 0.4rem solid #624ab6;
 }
 
 .fab {
